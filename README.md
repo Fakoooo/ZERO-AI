@@ -1,0 +1,1 @@
+ZERO-AI is a Neural network AI. as of now its just an discord bot that learn from interactions and so on. im currently working on so it can join voice chat and talk and intrect there aswell. im also working on the Neural network . i will post it to this repository when i feel its done and stable enough.
